@@ -1,0 +1,5 @@
+{
+  "name": "kawahara-mods",
+  "owner": { "name": "kazumasakawahara" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
