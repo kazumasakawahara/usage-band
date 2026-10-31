@@ -1,5 +1,6 @@
 {
   "name": "kawahara-mods",
+  "description": "河原の Claude Code mod 集",
   "owner": { "name": "kazumasakawahara" },
-  "plugins": [{ "name": "usage-band", "source": "./" }]
+  "plugins": [{ "name": "token-pet", "source": "./" }]
 }

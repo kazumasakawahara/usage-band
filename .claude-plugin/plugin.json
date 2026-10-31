@@ -1,10 +1,6 @@
 {
-  "name": "usage-band",
+  "name": "token-pet",
   "version": "0.1.0",
-  "description": "費用・5時間/7日間の使用率・セッションのコンテキスト使用量を、プロンプトの上の帯に表示する",
-  "types": "./types/index.d.ts",
-  "license": "MIT",
-  "author": {
-    "name": "kazumasakawahara"
-  }
+  "description": "入力欄の上に、アカウント全体とこのセッションのトークン使用量を遊び心のあるゲージで表示（70%以上で注意色）",
+  "types": "./types/index.d.ts"
 }
